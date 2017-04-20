@@ -1,0 +1,4 @@
+d’abr. 20, 2017 5:13:15 PM DAO.BaseXManager <init>
+WARNING: BaseXManager() No connection instanciated
+d’abr. 20, 2017 5:13:15 PM DAO.BaseXManager setConnection
+FINE: setConnection() set Connection success

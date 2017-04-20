@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="BaseX86">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Baixades/BaseX86.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/cache-api-0.6.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/cache-api-1.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/db4o-core-java5-8.0.184.15484.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

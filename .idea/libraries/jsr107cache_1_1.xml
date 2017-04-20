@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="jsr107cache-1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Baixades/jsr107cache-1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/json-simple-1.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/java-json.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/joda-time-2.0.jar!/" />
+      <root url="jar://$USER_HOME$/Baixades/db4o-core-java5-8.0.184.15484.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Baixades/java-json.jar!/" />
+    </SOURCES>
+  </library>
+</component>
