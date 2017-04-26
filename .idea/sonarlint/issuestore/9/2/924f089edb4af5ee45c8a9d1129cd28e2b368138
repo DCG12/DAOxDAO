@@ -1,37 +1,26 @@
 
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(àªÅö8‡º µ¸+
 V
 squid:S106";Replace this usage of System.out or System.err by a logger.(È©ƒ«8Ù˜¨¶¸+
-V
-squid:S106";Replace this usage of System.out or System.err by a logger.(È©ƒ«8·Ì§¶¸+
-V
-squid:S106";Replace this usage of System.out or System.err by a logger.(È©ƒ«8‚Æ¨¶¸+
-osquid:S1192"SDefine a constant instead of duplicating this literal "------------------" 4 times.(È©ƒ«8ù´¨¶¸+
-V
-squid:S106";Replace this usage of System.out or System.err by a logger.(È©ƒ«8ù´¨¶¸+
+isquid:S1871"HThis case's code block is the same as the block for the case on line 37.(‰ÆÄÎşÿÿÿÿ8‚¢¡º¸+
 V
 squid:S106";Replace this usage of System.out or System.err by a logger.(æÃÄë8¤ ıµ¸+
-isquid:S1871"HThis case's code block is the same as the block for the case on line 46.(‰ÆÄÎşÿÿÿÿ8‚¢¡º¸+
-V
-squid:S106";Replace this usage of System.out or System.err by a logger.(ÄÚÕ‚8æ˜º¸+
-isquid:S1871"HThis case's code block is the same as the block for the case on line 46.(ÌÊëÎüÿÿÿÿ8ñ´º¸+
-V
-squid:S106";Replace this usage of System.out or System.err by a logger.(¢Â˜é8ÊÓ¥¶¸+
-[
-squid:S106";Replace this usage of System.out or System.err by a logger.(ë¿Ùíıÿÿÿÿ8â•¶¸+
-Zsquid:UselessImportCheck",Remove this unused import 'DAO.BaseXClient'.(µ×ö¶ÿÿÿÿÿ8¢İº¸+
-Vsquid:S1118":Add a private constructor to hide the implicit public one.(àªÅö8‡º µ¸+
-1squid:S1220""Move this file to a named package.
-V
-squid:S106";Replace this usage of System.out or System.err by a logger.(¡Ò°«8¤¶¸+
-V
-squid:S106";Replace this usage of System.out or System.err by a logger.(´Îó8¨¿¶¸+
-csquid:S1871"HThis case's code block is the same as the block for the case on line 46.(û¿48®ş°º¸+
-Vsquid:S2209"5Change this instance-reference to a static reference.(ÛÙÁ‚şÿÿÿÿ8šäº¸+
-isquid:S1871"HThis case's code block is the same as the block for the case on line 46.(µ»ïşıÿÿÿÿ8ñ´º¸+
 [
 squid:S106";Replace this usage of System.out or System.err by a logger.(±¾‹¸ûÿÿÿÿ8“Ú†º¸+
+csquid:S1871"HThis case's code block is the same as the block for the case on line 37.(û¿48®ş°º¸+
+isquid:S1871"HThis case's code block is the same as the block for the case on line 37.(ÌÊëÎüÿÿÿÿ8ñ´º¸+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(ÄÚÕ‚8æ˜º¸+
 U"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(°˜¬8ñ´º¸+
-Vsquid:S2209"5Change this instance-reference to a static reference.(Àæ®ìúÿÿÿÿ8šäº¸+
-Vsquid:S2209"5Change this instance-reference to a static reference.(¯ÄöŠüÿÿÿÿ8šäº¸+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(ë¿Ùíıÿÿÿÿ8â•¶¸+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8¿Ôğß¸+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8ù´¨¶¸+
 [
 squid:S106";Replace this usage of System.out or System.err by a logger.(åÖİ şÿÿÿÿ8¼Ğ’º¸+
+1squid:S1220""Move this file to a named package.
+isquid:S1871"HThis case's code block is the same as the block for the case on line 37.(µ»ïşıÿÿÿÿ8ñ´º¸+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8¿Ôğß¸+

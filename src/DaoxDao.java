@@ -37,4 +37,12 @@ public class DaoxDao {
         }
     }
 
+    public void Delete(){
+        try {
+            dao.dropCollection(collectionName);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
 }
